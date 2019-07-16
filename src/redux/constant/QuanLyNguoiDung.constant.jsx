@@ -1,0 +1,6 @@
+export const DANG_KY = 'DANG_KY';
+export const DANG_NHAP = 'DANG_NHAP';
+export const LAY_THONG_TIN_TAI_KHOAN = 'LAY_THONG_TIN_TAI_KHOAN';
+
+export const LAY_DANH_SACH_LOAI_NGUOI_DUNG = 'LAY_DANH_SACH_LOAI_NGUOI_DUNG';
+// {HOC_VIEN:'HV',GIAO_VU:'GV'};
